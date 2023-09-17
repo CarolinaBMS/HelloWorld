@@ -1,3 +1,4 @@
+Temos que conseguir planejar uma viagem 
 A ovelha é branca e tem uma tatuagem
 
 É de pelúcia
@@ -7,3 +8,4 @@ Não sabe o que faz. A ovelha é branca e tem uma tatuagem
 A ovelha é fofa. E bonitinha.
 
 Experimentando com o push e o pull.
+
